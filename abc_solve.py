@@ -39,7 +39,7 @@ for i, part in enumerate(statement_parts):
 print("\nConstraints:")
 print(constraints)
 print("\nThink step by step and write Python code to solve it.")
-print("UnionFind should not be used when edges are added or removed.")
+print("UnionFind should not be used when edges are added and removed.")
 print("Please considering the idea of a binary search, memoization and dp and the others.")
 print("If the solution is too complicated, please rethink of a simple solution.")
 print("説明は日本語で書いて下さい。")
